@@ -16,7 +16,7 @@ configs/COCO-Detection/faster_rcnn_X_101_32x8d_FPN_3x.yaml: Training hyperparame
   
 To run our code:
 1. First build Detectron2:  
-cd detectron2-featureCoding/  
+cd detectron2-featrCoding/  
 python -m pip install -e detectron2  
   
 2. Download pretrained weights of task network from: 
